@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/willpxxr.com.ico",
     "slug": "willpxxr-com",
     "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
+    "uptime": "57.90%",
+    "uptimeDay": "57.90%",
+    "uptimeWeek": "57.90%",
+    "uptimeMonth": "57.90%",
+    "uptimeYear": "57.90%",
     "time": 531,
     "timeDay": 531,
     "timeWeek": 531,
     "timeMonth": 531,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2024-11-14": 0
+      "2024-11-14": 12
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.willpxxr.com.ico",
     "slug": "status-willpxxr-com",
     "status": "down",
-    "uptime": "2.23%",
-    "uptimeDay": "2.23%",
-    "uptimeWeek": "2.23%",
-    "uptimeMonth": "2.23%",
-    "uptimeYear": "2.23%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 122,
     "timeDay": 122,
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-11-14": 0
+      "2024-11-14": 12
     }
   }
 ]
