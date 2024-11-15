@@ -4,19 +4,19 @@
     "url": "https://willpxxr.com",
     "icon": "https://icons.duckduckgo.com/ip3/willpxxr.com.ico",
     "slug": "willpxxr-com",
-    "status": "down",
-    "uptime": "49.77%",
-    "uptimeDay": "58.83%",
-    "uptimeWeek": "49.77%",
-    "uptimeMonth": "49.77%",
-    "uptimeYear": "49.77%",
-    "time": 597,
+    "status": "up",
+    "uptime": "49.27%",
+    "uptimeDay": "58.29%",
+    "uptimeWeek": "49.27%",
+    "uptimeMonth": "49.27%",
+    "uptimeYear": "49.27%",
+    "time": 608,
     "timeDay": 606,
-    "timeWeek": 597,
-    "timeMonth": 597,
-    "timeYear": 597,
+    "timeWeek": 608,
+    "timeMonth": 608,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2024-11-15": 96,
+      "2024-11-15": 115,
       "2024-11-14": 831
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-11-15": 448,
+      "2024-11-15": 467,
       "2024-11-14": 1381
     }
   }
